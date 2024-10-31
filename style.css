@@ -1,0 +1,31 @@
+#qyime_py {
+	width: 18px;
+	height: 18px;
+	overflow: hidden;
+	text-indent: -99em;
+	background: url(img/icon.png) center top no-repeat;
+	z-index: 9999;
+	position: relative;
+	float: right;
+}
+#qyime_wb {
+	width: 18px;
+	height: 18px;
+	overflow: hidden;
+	text-indent: -99em;
+	background: url(img/icon.png) center -18px no-repeat;
+	z-index: 9999;
+	position: relative;
+	float: right;
+}
+a.qyime_dashboard {
+	margin: 10px 10px 0;
+}
+a.qyime_front {
+	margin: 0 5px 0 0;
+	*margin-top: -18px;
+}
+div#qq_yun_ime {
+	width: 98px;
+	height: 18px;
+}
